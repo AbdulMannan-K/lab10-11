@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.20.2"
+  },
+  "resolutions": {
+    "**/@babel/runtime": "7.5.0"
   }
+
 }
